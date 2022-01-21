@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-✪ I'm Natasha bot [✨](https://te.legra.ph/file/074ef8d210745e3380baf.jpg)
+✪ I'm Natasha bot [✨](https://telegra.ph/file/1e6d3808e8198eb97cf4d.jpg)
 ────────────────────────
 × *Bot Uptime:* `{}`
 × `{}` *users, across* `{}` *chats*
@@ -110,7 +110,7 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-EMI_IMG = "https://te.legra.ph/file/074ef8d210745e3380baf.jpg"
+EMI_IMG = "https://telegra.ph/file/1e6d3808e8198eb97cf4d.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  Supporting isnt always financial! \
