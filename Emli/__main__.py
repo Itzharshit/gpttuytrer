@@ -449,7 +449,7 @@ def emli_about_callback(update, context):
 
     elif query.data == "emli_credit":
         query.message.edit_text(
-            text=f"<b>๏ Credis for Natasha</B>\"
+            text=f"<b>๏ Credis for Natasha</B>"
             f"\nHere Developers Making The Natasha",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
