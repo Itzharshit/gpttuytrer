@@ -92,12 +92,12 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Natasha", callback_data="emli_"),
+        InlineKeyboardButton(text="Help", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="Help", callback_data="help_back"),
+        InlineKeyboardButton(text="Updates", url="https://t.me/pyrogrammers"),
         InlineKeyboardButton(
-            text="support!​​", url="https://t.me/+7ScFy39Vckk5MWQ1"
+            text="Support", url="https://t.me/+7ScFy39Vckk5MWQ1"
         ),
     ],
     [
