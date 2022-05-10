@@ -82,12 +82,9 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-✪ I'm Natasha bot [✨](https://telegra.ph/file/1e6d3808e8198eb97cf4d.jpg)
-────────────────────────
-× *Bot Uptime:* `{}`
-× `{}` *users, across* `{}` *chats*
-────────────────────────
-✪ Hit the /help to see available commands.
+Natasha [✨](https://telegra.ph/file/1e6d3808e8198eb97cf4d.jpg) is here.
+I can manage your group more effectively with new and upgraded features.
+Add me to your group as an admin and leave rest of things on me.
 """
 
 buttons = [
